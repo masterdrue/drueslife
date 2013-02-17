@@ -1,0 +1,4 @@
+drueslife
+=========
+
+Symfony based application
